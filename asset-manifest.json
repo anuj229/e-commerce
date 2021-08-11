@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.01c7974a.chunk.css",
+    "main.js": "/e-commerce/static/js/main.3bd03be6.chunk.js",
+    "main.js.map": "/e-commerce/static/js/main.3bd03be6.chunk.js.map",
+    "runtime-main.js": "/e-commerce/static/js/runtime-main.437aa9fb.js",
+    "runtime-main.js.map": "/e-commerce/static/js/runtime-main.437aa9fb.js.map",
+    "static/js/2.872eff26.chunk.js": "/e-commerce/static/js/2.872eff26.chunk.js",
+    "static/js/2.872eff26.chunk.js.map": "/e-commerce/static/js/2.872eff26.chunk.js.map",
+    "index.html": "/e-commerce/index.html",
+    "static/css/main.01c7974a.chunk.css.map": "/e-commerce/static/css/main.01c7974a.chunk.css.map",
+    "static/js/2.872eff26.chunk.js.LICENSE.txt": "/e-commerce/static/js/2.872eff26.chunk.js.LICENSE.txt",
+    "static/media/cycle.46e07193.jpg": "/e-commerce/static/media/cycle.46e07193.jpg",
+    "static/media/dslr.8235e17a.jpg": "/e-commerce/static/media/dslr.8235e17a.jpg",
+    "static/media/dumbbells.1828d046.jpg": "/e-commerce/static/media/dumbbells.1828d046.jpg",
+    "static/media/gps.259fe4a9.jpg": "/e-commerce/static/media/gps.259fe4a9.jpg",
+    "static/media/headphones.417fd340.jpg": "/e-commerce/static/media/headphones.417fd340.jpg",
+    "static/media/iphone.01236eb9.jpg": "/e-commerce/static/media/iphone.01236eb9.jpg",
+    "static/media/lamp.06da47e7.jpg": "/e-commerce/static/media/lamp.06da47e7.jpg",
+    "static/media/laptop.8ce16616.jpg": "/e-commerce/static/media/laptop.8ce16616.jpg",
+    "static/media/luggagebag.9f56ab3f.jpg": "/e-commerce/static/media/luggagebag.9f56ab3f.jpg",
+    "static/media/perfumes.5998c1fd.jpg": "/e-commerce/static/media/perfumes.5998c1fd.jpg",
+    "static/media/rings.ca7fc937.jpg": "/e-commerce/static/media/rings.ca7fc937.jpg",
+    "static/media/selfiestick.cf34881b.jpg": "/e-commerce/static/media/selfiestick.cf34881b.jpg",
+    "static/media/shoes.0defb633.jpg": "/e-commerce/static/media/shoes.0defb633.jpg",
+    "static/media/App.css": "/e-commerce/static/media/shopping.392871cc.jpg",
+    "static/media/treadmill.d6cf40b4.jpg": "/e-commerce/static/media/treadmill.d6cf40b4.jpg",
+    "static/media/vr.08f7ec75.jpg": "/e-commerce/static/media/vr.08f7ec75.jpg",
+    "static/media/watch.cd027fe0.jpg": "/e-commerce/static/media/watch.cd027fe0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.437aa9fb.js",
+    "static/js/2.872eff26.chunk.js",
+    "static/css/main.01c7974a.chunk.css",
+    "static/js/main.3bd03be6.chunk.js"
+  ]
+}
