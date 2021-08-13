@@ -10,7 +10,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 function App() {
   return (
     <AppProvider>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <div>
           <Navbar />
           
