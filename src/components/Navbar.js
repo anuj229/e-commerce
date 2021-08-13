@@ -11,7 +11,7 @@ const Navbar = () => {
       <ul className="left">
         <li>
           <Link to="/">
-            <a href="">E-Commerce</a>
+      <a>E-Commerce</a>
           </Link>
         </li>
       </ul>
