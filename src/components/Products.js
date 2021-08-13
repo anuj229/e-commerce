@@ -8,7 +8,7 @@ const Products = () => {
     return (
       <div className="container">
         <Banner/>
-        <div style={{margin:"50px 0", color:"white",textAlign:"center", borderBottom:"2px solid brown",paddingBottom:"20px", }}><h1>OUR PRODUCTS</h1></div>
+        <div style={{margin:"50px 0", color:"white",textAlign:"center", borderBottom:"2px solid brown",paddingBottom:"20px", }}><h1>Our Products</h1></div>
         <div className="products">
           {products && products.map((item) => {
             return (
